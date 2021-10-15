@@ -1,1 +1,9 @@
-Hi Thid is Nicky
+Azure Cloud
+
+There are 60+ regions in Azure Cloud.
+
+We can't use services of all regions in Azure Cloud.
+
+In Azure, The model follows like below
+
+Resources ---> Resource Groups ---> Subscriptions ---> Management Groups
