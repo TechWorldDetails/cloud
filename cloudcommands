@@ -7,3 +7,6 @@ We can't use services of all regions in Azure Cloud.
 In Azure, The model follows like below
 
 Resources ---> Resource Groups ---> Subscriptions ---> Management Groups
+
+
+Hello ...!!!
